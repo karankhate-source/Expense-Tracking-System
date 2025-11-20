@@ -37,8 +37,8 @@ Testing	Pytest
 Language	Python 3.10+
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/expense-management-system.git
-cd expense-management-system
+git clone https://github.com/karankhate-source/Expense-Tracking-System.git
+cd Expense-Tracking-System
 
 2. Install Dependencies
 pip install -r requirements.txt
@@ -93,3 +93,4 @@ For major changes, please open an issue first to discuss what you’d like to im
 ⭐ Show Your Support
 
 If you found this project useful, consider giving it a star ⭐ on GitHub — it helps a lot!
+
