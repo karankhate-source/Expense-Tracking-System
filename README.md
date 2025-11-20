@@ -38,7 +38,7 @@ Language	Python 3.10+
 🚀 Getting Started
 1. Clone the Repository
 git clone https://github.com/karankhate-source/Expense-Tracking-System.git
-cd Expense-Tracking-System
+
 
 2. Install Dependencies
 pip install -r requirements.txt
@@ -68,7 +68,7 @@ POST	/expense/add	Add a new expense
 GET	/expense/all	Fetch all expenses
 DELETE	/expense/{id}	Delete an expense
 
-(Modify these examples based on your actual endpoints.)
+
 
 🧪 Running Tests
 pytest
@@ -93,4 +93,5 @@ For major changes, please open an issue first to discuss what you’d like to im
 ⭐ Show Your Support
 
 If you found this project useful, consider giving it a star ⭐ on GitHub — it helps a lot!
+
 
